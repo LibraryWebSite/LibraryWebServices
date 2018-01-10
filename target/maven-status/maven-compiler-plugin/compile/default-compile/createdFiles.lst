@@ -1,0 +1,11 @@
+org\jboss\tools\examples\rest\JaxRsActivator.class
+lexicon\model\Member.class
+lexicon\model\Book.class
+lexicon\model\Book_.class
+lexicon\model\Member_.class
+lexicon\model\services\BookServices.class
+lexicon\model\services\MemberServices.class
+lexicon\model\Loan_.class
+org\jboss\tools\examples\util\Resources.class
+lexicon\model\resources\BookResources.class
+lexicon\model\resources\MemberResources.class
